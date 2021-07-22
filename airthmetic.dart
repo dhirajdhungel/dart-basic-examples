@@ -1,5 +1,6 @@
+//airthmetic problems
 void main() {
-  int num1 = 40, num2 = 15, sum = 0, differ = 0, mult = 0, remain = 0;
+  int num1 = 40, num2 = 25, sum = 0, differ = 0, mult = 0, remain = 0;
   double div = 0;
   sum = num1 + num2;
   differ = num1 - num2;
