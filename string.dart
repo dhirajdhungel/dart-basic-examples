@@ -7,7 +7,8 @@ void main() {
 
   String str4 = """this is also a 
   multiline 
-  line string""";
+  line
+  string""";
 
   print(str1);
   print(str2);
