@@ -3,7 +3,7 @@
 void main() {
   String str1 = "HELLO";
   String str2 = "there";
-  String str3 = "   Nameste I'm Dart learner.  ";
+  String str3 = "   Nameste I'm Dart learner.   ";
   String str4 = "G";
   String str5 = "B";
   String str6 = "A B C D E";
