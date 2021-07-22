@@ -1,7 +1,8 @@
 // [Ram, Shyam, Hari, Gita, Sita, Chutiya, Iluminati, Putin];
 
 void main() {
-  var data = [
+  List data = [
+    //Either list or var works for variable types.
     'Ram',
     'Shyam',
     'Hari',
