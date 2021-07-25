@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  print("Enter number");
+  print("Enter a number");
   var n = int.parse(stdin.readLineSync());
   List list = [];
   for (var i = 0; i < n; i++) {
