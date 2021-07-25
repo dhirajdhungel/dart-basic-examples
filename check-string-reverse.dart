@@ -1,6 +1,6 @@
 /////////////////// Commented code below simply reverses string ///////////
 // void main() {
-//   String str = "Nw33AYAN";
+//   String str = "NAYAN";
 //   for (int i = (str.length - 1); i >= 0; i--) {
 //     print(str[i]);
 //   }
