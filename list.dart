@@ -1,10 +1,11 @@
 import 'dart:io';
-void main(){
+
+void main() {
   print("Enter number");
-  var n = var.parse(stdin.readLineSync());
+  var n = int.parse(stdin.readLineSync());
   List list = [];
-  for(var i=0; i<n; i++){
-    list.add(var.parse(stdin.readLineSync()));
+  for (var i = 0; i < n; i++) {
+    list.add(int.parse(stdin.readLineSync()));
   }
   print(list);
 }
