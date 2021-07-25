@@ -7,8 +7,8 @@ void main() {
     state = 'Negative';
   }
   if (num % 2 == 0) {
-    print("Given number is $state Even");
+    print("Given number is $state Even.");
   } else {
-    print("Given number is $state Odd");
+    print("Given number is $state Odd.");
   }
 }
